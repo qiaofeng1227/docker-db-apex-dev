@@ -11,7 +11,7 @@ https://download.oracle.com/otn/linux/oracle12c/122010/linuxx64_12201_database.z
 https://download.oracle.com/otn/linux/oracle18c/180000/LINUX.X64_180000_db_home.zip
 
 # Oracle Database 19.3 EE
-https://download.oracle.com/otn/linux/oracle19c/190000/LINUX.X64_193000_db_home.zip
+https://download.oracle.com/otn/linux/oracle19c/190000/LINUX.X64_193000_db_home.zip?AuthParam=1650944747_6179f652184fd318285fed61dbef8826
 
 # Oracle APEX
 https://download.oracle.com/otn/java/appexpress/apex_20.2.zip
